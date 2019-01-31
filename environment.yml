@@ -11,7 +11,9 @@ dependencies:
   - ipykernel
   - beautifulsoup4
   - rise
+  - scikit-plot
   - pip:
     - termcolor
     - wordcloud
     - stop-words
+    - eli5
